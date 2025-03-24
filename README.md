@@ -17,6 +17,10 @@ Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour cr�
 ### Looking Glass
 Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées. A partir de 10 ans. https://lookingglass.wustl.edu/
 
+### MIT App Inventor :white_check_mark:
+C'est un environnement de programmation intuitif et visuel qui permet à tout le monde, même aux enfants, de créer des applications entièrement fonctionnelles pour les smartphones (téléphones intelligents et les tablettes) de systèmes d'exploitation Android et iOS.
+Il faut savoir lire l'anglais. https://appinventor.mit.edu/
+
 ### Hopscotch :white_check_mark:
 Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
 
